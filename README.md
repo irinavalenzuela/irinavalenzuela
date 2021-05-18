@@ -7,8 +7,8 @@ I am a Ph.D. student in Economics at University of Illinois Urbana-Champaign. I�
 Political Economy, economics of education, gender and health
 
 ### My work in progess 😃🧾
-<!-- BLOG-POST-LIST:START -->
-- [What I have learned by working remotely in this pandemic period](https://dev.to/diogorodrigues/what-i-have-learned-by-working-remotely-in-this-pandemic-period-2ehm)
+<!-- BLOG-POST-LIST:START 
+- [What I have learned by working remotely in this pandemic period](https://dev.to/diogorodrigues/what-i-have-learned-by-working-remotely-in-this-pandemic-period-2ehm) -->
 
 <!-- BLOG-POST-LIST:END -->
 
