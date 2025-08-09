@@ -4,7 +4,7 @@ I am a Consultant at the International Fund for Agricultural Development. I am f
 
 ### My Research Interest 👨‍💻
 
-Development ecocnomica, education, gender, and political economy
+Development economics, education, gender, and political economy
 
 <!-- BLOG-POST-LIST:START 
 - [What I have learned by working remotely in this pandemic period](https://dev.to/diogorodrigues/what-i-have-learned-by-working-remotely-in-this-pandemic-period-2ehm) -->
