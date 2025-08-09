@@ -1,10 +1,10 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Irina Valenzuela!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I am Irina Valenzuela!
 
-I am a Ph.D. student in Economics at University of Illinois Urbana-Champaign. I´m from Lima, Peru.✨😍
+I am a Consultant at the International Fund for Agricultural Development. I am from Peru✨.
 
 ### My Research Interest 👨‍💻
 
-Political Economy, social media, economics of education, gender and health
+Development ecocnomica, education, gender, and political economy
 
 <!-- BLOG-POST-LIST:START 
 - [What I have learned by working remotely in this pandemic period](https://dev.to/diogorodrigues/what-i-have-learned-by-working-remotely-in-this-pandemic-period-2ehm) -->
